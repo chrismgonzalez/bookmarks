@@ -5,8 +5,6 @@ If you would like to contribute to this repo, please submit a pull request.
 
 
 ## Most Used
-[Tania Rascia](https://www.taniarascia.com/)
-
-[Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-
-[Stack Overflow](https://stackoverflow.com/questions#)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [Stack Overflow](https://stackoverflow.com/questions#)
