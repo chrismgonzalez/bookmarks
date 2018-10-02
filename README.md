@@ -13,10 +13,17 @@ If you would like to contribute to this repo, please submit a pull request.
 - [Online Regex Tester](https://regex101.com/)
 - [Babel](https://babeljs.io/)
 
-## Learn
+### Learn
 
 - [Watch and Code](https://watchandcode.com/)
+- [Tyler McGinnis - All things React](https://tylermcginnis.com/)
 
-## Reference
+### Reference
 
 - [DevDocs API Documentation](http://devdocs.io/)
+
+## Languages
+
+### Javascript
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
