@@ -22,8 +22,16 @@ If you would like to contribute to this repo, please submit a pull request.
 
 - [DevDocs API Documentation](http://devdocs.io/)
 
+### Code Challenges
+
+- [CodeWars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [Project Euler](https://projecteuler.net/)
+
 ## Languages
 
 ### Javascript
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
