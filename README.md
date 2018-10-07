@@ -12,6 +12,7 @@ If you would like to contribute to this repo, please submit a pull request.
 - [React - FreeCodeCamp Guide](https://guide.freecodecamp.org/react)
 - [Online Regex Tester](https://regex101.com/)
 - [Babel](https://babeljs.io/)
+- [GatsbyJS](https://www.gatsbyjs.org/)
 
 ### Learn
 
