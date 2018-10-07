@@ -35,3 +35,5 @@ If you would like to contribute to this repo, please submit a pull request.
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [NodeJS website/docs](www.nodejs.org/en);
+
